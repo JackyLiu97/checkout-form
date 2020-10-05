@@ -1,0 +1,23 @@
+
+.flex-box-container-1 {
+    display:flex;
+    /* border: 1px solid grey; */
+    padding: 1px;
+    flex-wrap: wrap;
+    text-align: center;
+   
+}   
+
+.flex-box-container-1 div {
+    padding: 1px;
+    align-items: center;
+}
+
+
+.flex-box-container-2 {
+    display:flex;
+    border: 1px solid grey;
+    padding: 17px;
+    flex-wrap: wrap;
+   
+}
